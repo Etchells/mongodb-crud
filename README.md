@@ -8,6 +8,9 @@ Steps
 
 3 Goto http://localhost:8081/ and create database with the same name stated in application.properties
 
+finAll
+
+http://localhost:8080/api/v1/students
 
 
 
